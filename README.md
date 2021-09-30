@@ -1,14 +1,8 @@
 <p align="center">
-    <h1 align="center">POS System Using Laravel</h1>
+    <h1 align="center">Proyectol</h1>
 </p>
 
-The project was created while recording video "Create POS System Using Laravel"
-
 ## Installation
-
-### Requirements
-
-For system requirements you [Check Laravel Requirement](https://laravel.com/docs/8.x/deployment#server-requirements)
 
 ### Clone the repository from github.
 
@@ -57,37 +51,3 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 ### Create storage link
 
 `php artisan storage:link`
-
-### Run Server
-
-1. `php artisan serve` or Laravel Homestead
-1. Visit `localhost:8000` in your browser
-1. Visit `/admin` if you want to access the admin. Email: `admin@gmail.com`, Password: `admin`.
-
-### Screenshots
-
-#### Product list
-
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/products_list.png)
-
-#### Create order
-
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/pos.png)
-
-#### Order list
-
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/order_list.png)
-
-#### Customer list
-
-![SS](https://raw.githubusercontent.com/angkosal/laravel-pos/master/screenshots/customer_list.png)
-
-## Donation
-
-Support this projects (Cambodia).
-
-<img src="https://adscom.biz/wp-content/uploads/2017/02/ABA-logo-no-padding.png" alt="ABA logo" width="150px" />
-
-#### ORNG SORL
-
-#### 000 294 471
