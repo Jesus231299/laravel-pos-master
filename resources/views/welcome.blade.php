@@ -91,6 +91,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Inicio de tienda online
+                    Version 1.0
                 </div>
             </div>
         </div>
