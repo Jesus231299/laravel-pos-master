@@ -1,15 +1,8 @@
 <p align="center">
-    <h1 align="center">Proyectol</h1>
+    <h1 align="center">Proyecto</h1>
 </p>
 
 ## Installation
-
-### Clone the repository from github.
-
-    git clone https://github.com/angkosal/laravel-pos.git [YourDirectoryName]
-
-The command installs the project in a directory named `YourDirectoryName`. You can choose a different
-directory name if you want.
 
 ### Install dependencies
 
